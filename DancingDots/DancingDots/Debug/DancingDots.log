@@ -1,0 +1,26 @@
+﻿Сборка начата 19.06.2016 19:33:36.
+     1>Проект "C:\Users\Вадим\Desktop\DancingDots\DancingDots\DancingDots.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\DancingDots.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+         c:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note:  см. объявление "MBCS_Support_Deprecated_In_MFC"
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\DancingDots.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ChildView.cpp DancingDots.cpp MainFrm.cpp
+         MainFrm.cpp
+         DancingDots.cpp
+         ChildView.cpp
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0419" /IDebug\ /nologo /fo"Debug\DancingDots.res" DancingDots.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Вадим\Desktop\DancingDots\Debug\DancingDots.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Вадим\Desktop\DancingDots\Debug\DancingDots.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Вадим\Desktop\DancingDots\Debug\DancingDots.lib" /MACHINE:X86 Debug\DancingDots.res
+         Debug\ChildView.obj
+         Debug\DancingDots.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         DancingDots.vcxproj -> C:\Users\Вадим\Desktop\DancingDots\Debug\DancingDots.exe
+     1>Сборка проекта "C:\Users\Вадим\Desktop\DancingDots\DancingDots\DancingDots.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:15.13
